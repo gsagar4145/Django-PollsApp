@@ -1,4 +1,4 @@
-# Django POlls Web-App.
+# Django based  Polling Web-Application.
 
 ## This is a web based application for voating at some specific questions.
 
